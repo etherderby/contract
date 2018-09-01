@@ -1,0 +1,12 @@
+.DS_Store
+.AppleDouble
+.LSOverride
+node_modules/
+yarn-error.log
+
+dist/
+
+**/*.txt
+**/*.log
+secrets.json
+build/
